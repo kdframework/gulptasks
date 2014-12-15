@@ -1,0 +1,28 @@
+{
+  "name": "kdf-gulptasks",
+  "version": "0.0.1",
+  "description": "KDFramework gulp tasks registry.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kdframework/gulptasks"
+  },
+  "keywords": [
+    "gulp",
+    "tasks",
+    "build",
+    "kdframework"
+  ],
+  "author": "Sinan Yasar <sinan@koding.com> (http://sinanyasar.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kdframework/gulptasks/issues"
+  },
+  "homepage": "https://github.com/kdframework/gulptasks"
+}
